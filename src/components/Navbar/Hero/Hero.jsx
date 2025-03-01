@@ -16,7 +16,7 @@ const Hero = () => {
 
 {" "}
         </p>
-        <a href="mailto:amitsahani2322003@gmail.com" className={styles.contact}>
+        <a href="mailto:mauryaashutosh1983@gmail.com" className={styles.contact}>
           Mail us{" "}
         </a>
       </div>
